@@ -11,7 +11,7 @@ public class Player : MonoBehaviour
     private float horizontal = 0;
     private float vertical = 0;
 
-    public int maxHealth = 10;
+    public int maxHealth = 100;
     public int currentHealth;
 
     public HealthBar healthbar;
@@ -34,13 +34,7 @@ public class Player : MonoBehaviour
         healthbar.SetMaxHealth(maxHealth);
     }
 
-    void update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage(20);
-        }
-    }
+   
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
@@ -53,6 +47,10 @@ public class Player : MonoBehaviour
         TurnCharacter();
         Fire();
         Attack();
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage(5);
+        }
     }
 
 
