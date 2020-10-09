@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -9,6 +10,11 @@ public class Player : MonoBehaviour
 
     private float horizontal = 0;
     private float vertical = 0;
+
+    public int maxHealth = 100;
+    public int currentHealth;
+
+    public HealthBar healthbar;
 
     [SerializeField]
     private float attackCooldown = 1f;
@@ -24,8 +30,21 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         meleeHitbox.SetActive(false);
+        currentHealth = maxHealth;
     }
 
+    void update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage(20);
+        }
+    }
+    void TakeDamage(int damage)
+    {
+        currentHealth -= damage;
+        healthbar.SetHealth(currentHealth);
+    }
     // Update is called once per frame
     void FixedUpdate()
     {
