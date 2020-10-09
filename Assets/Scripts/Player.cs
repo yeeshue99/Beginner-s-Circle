@@ -17,7 +17,8 @@ public class Player : MonoBehaviour
     [SerializeField]
     private GameObject meleeHitbox;
 
-    public float runSpeed = 7.5f;
+    [SerializeField]
+    private float runSpeed = 7.5f;
     // Start is called before the first frame update
     void Start()
     {
