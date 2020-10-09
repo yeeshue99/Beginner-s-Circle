@@ -11,26 +11,27 @@ public class Player : MonoBehaviour
     private float horizontal = 0;
     private float vertical = 0;
 
-    public int maxHealth = 100;
+    public int maxHealth = 10;
     public int currentHealth;
 
     public HealthBar healthbar;
 
     [SerializeField]
-    private float attackCooldown = 1f;
+    private float attackCooldown = 20.0f;
     private float lastAttack = 0;
     public GameObject laser;
     [SerializeField]
     private GameObject meleeHitbox;
 
     [SerializeField]
-    private float runSpeed = 7.5f;
+    private float runSpeed = 5f;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         meleeHitbox.SetActive(false);
         currentHealth = maxHealth;
+        healthbar.SetMaxHealth(maxHealth);
     }
 
     void update()
@@ -40,7 +41,7 @@ public class Player : MonoBehaviour
             TakeDamage(20);
         }
     }
-    void TakeDamage(int damage)
+    public void TakeDamage(int damage)
     {
         currentHealth -= damage;
         healthbar.SetHealth(currentHealth);

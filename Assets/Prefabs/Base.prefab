@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6798518997311210918}
   - component: {fileID: 2186904762340205542}
   - component: {fileID: 8872969061213647726}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 6515131981379556855}
   - component: {fileID: 128537904568988016}
   - component: {fileID: 563773429169476626}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 3897046037713328045}
   - component: {fileID: 3556182691740463960}
   - component: {fileID: 1093054254909666106}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -334,7 +334,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1335287592506175024}
   - component: {fileID: 8110985435715451764}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Base
   m_TagString: Base
   m_Icon: {fileID: 0}
@@ -372,6 +372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c183a76aee739684c965066b64d97359, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 1
 --- !u!1 &6444552084444959359
 GameObject:
   m_ObjectHideFlags: 0
@@ -383,7 +384,7 @@ GameObject:
   - component: {fileID: 3809546583101720748}
   - component: {fileID: 6733156436757971041}
   - component: {fileID: 4274013382754875112}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -491,7 +492,7 @@ GameObject:
   - component: {fileID: 5854222493093956061}
   - component: {fileID: 8335349063930883082}
   - component: {fileID: 27827308199875706}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}

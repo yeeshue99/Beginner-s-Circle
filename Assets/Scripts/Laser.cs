@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Laser : MonoBehaviour
 {
-    private int speed = 2;
+    private int speed = 7;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,7 +17,7 @@ public class Laser : MonoBehaviour
         transform.Translate(-Vector3.up * Time.deltaTime * speed);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
