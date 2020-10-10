@@ -5,13 +5,17 @@ using UnityEngine;
 public class Base : MonoBehaviour
 {
     [SerializeField]
-    private int health = 1;
+    private int currentHealth;
+    private int maxHealth = 10;
 
     private GameHandler gameHandler;
+    public HealthBar healthBar;
     // Start is called before the first frame update
     void Start()
     {
         gameHandler = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameHandler>();
+        currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
     }
 
     // Update is called once per frame
@@ -22,11 +26,13 @@ public class Base : MonoBehaviour
 
     public void takeDamage(int damage)
     {
-        health -= damage;
-        if(health <= 0)
+        currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
+        if (currentHealth <= 0)
         {
             gameHandler.setGameover(true);
             gameObject.SetActive(false);
+            
             //Destroy(gameObject);
         }
     }

@@ -12,12 +12,11 @@ public class HealthBar : MonoBehaviour
     public Slider slider;
     public Gradient gradient;
     public Image fill;
-    public Text counter;
     public int healthValue;
 
     public void FixedUpdate()
     {
-        Death();
+
     }
 
     public void SetMaxHealth(int health)
@@ -32,16 +31,13 @@ public class HealthBar : MonoBehaviour
         healthValue = health;
         slider.value = health;
         fill.color = gradient.Evaluate(slider.normalizedValue);
-    }
-    public void Death()
-    {
-        int kill = 0;
-        Debug.Log(healthValue);
-        if (healthValue <= 0)
+        if(healthValue <= 0)
         {
-            Debug.Log("Hi");
-            kill = kill + 1;
-            counter.text = kill.ToString();
+            Die();
         }
+    }
+    public void Die()
+    {
+        // Implement death functionality
     }
 }
