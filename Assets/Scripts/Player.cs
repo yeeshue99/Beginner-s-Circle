@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
 public class Player : MonoBehaviour
@@ -16,6 +17,9 @@ public class Player : MonoBehaviour
 
     public HealthBar healthbar;
 
+    PlayerInput input;
+
+
     [SerializeField]
     private float attackCooldown = 20.0f;
     private enum Weapon { melee, ranged};
@@ -29,6 +33,25 @@ public class Player : MonoBehaviour
     [SerializeField]
     private float runSpeed = 5f;
     // Start is called before the first frame update
+
+    private void Awake()
+    {
+        input = new PlayerInput();
+        //input.Player.Attack.performed += ctx => Attack();
+        input.Player.ChangeWeapon.performed += ctx => ChangeWeapon();
+        
+    }
+    public void OnEnable()
+    {
+        input.Enable();
+    }
+
+    public void OnDisable()
+    {
+        input.Disable();
+    }
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -45,16 +68,16 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+        //var gamepad = Gamepad.current;
         MoveCharacter();
         TurnCharacter();
-        ChangeWeapon();
         Attack();
     }
 
 
     private void TurnCharacter()
     {
-        Vector3 mouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector3 mouse = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
         Vector3 diff = mouse - transform.position;
         diff.Normalize();
         mouse.z = 0;
@@ -67,23 +90,24 @@ public class Player : MonoBehaviour
 
     private void MoveCharacter()
     {
-        horizontal = Input.GetAxisRaw("Horizontal");
-        vertical = Input.GetAxisRaw("Vertical");
+        horizontal = input.Player.HorizontalAxis.ReadValue<float>();
+        vertical = input.Player.VerticalAxis.ReadValue<float>();
 
         rb.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed);
     }
 
     private void ChangeWeapon()
     {
-            uint temp = (uint)currentWeapon;
-            temp += (uint)Input.GetAxis("SwapWeapon");
-            temp %= (uint)System.Enum.GetValues(typeof(Weapon)).Length;
-            currentWeapon = (Weapon)temp;
+        Debug.Log(input.Player.ChangeWeapon.ReadValue<float>());
+        uint temp = (uint)currentWeapon;
+        temp += 1;//(uint)Input.GetAxis("SwapWeapon");
+        temp %= (uint)System.Enum.GetValues(typeof(Weapon)).Length;
+        currentWeapon = (Weapon)temp;
     }
 
     private void Attack()
     {
-        if (Input.GetButton("Fire1") && Time.time - lastAttack > attackCooldown)
+        if (input.Player.Attack.ReadValue<float>() == 1 && Time.time - lastAttack > attackCooldown)
         {
 
             switch (currentWeapon)
@@ -111,14 +135,14 @@ public class Player : MonoBehaviour
 
     private void Fire()
     {
-        Vector3 mouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector3 mouse = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
         Vector3 diff = mouse - transform.position;
         diff.Normalize();
         mouse.z = 0;
         // Get Angle in Radians
         float angle = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
 
-        if (Input.GetButton("Fire1") && Time.time - lastAttack > attackCooldown)
+        if (Time.time - lastAttack > attackCooldown)
         {
             GameObject temp = Instantiate(laser, transform.position, transform.rotation, transform);
             //temp.GetComponent<SendScore>().;
