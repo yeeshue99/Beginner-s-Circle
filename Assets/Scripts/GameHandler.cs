@@ -10,6 +10,7 @@ public class GameHandler : MonoBehaviour
     private bool gameover = false;
 
     public GameObject enemyPrefab;
+    public ScoreHandler scoreHandler;
     
     // Start is called before the first frame update
     void Start()
@@ -58,6 +59,7 @@ public class GameHandler : MonoBehaviour
             Vector2 randomPointOnCircle = GetUnitOnCircle(Random.Range(0.0f, 360.0f), 15.0f);
             //randomPointOnCircle *= 3;
             GameObject temp = Instantiate(enemyPrefab, new Vector3(randomPointOnCircle.x, randomPointOnCircle.y, 0f), enemyPrefab.transform.rotation);
+            temp.GetComponent<Enemy>().scoreHandler = scoreHandler;
             enemies.Add(temp);
             yield return new WaitForSeconds(1f);
         }

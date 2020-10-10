@@ -11,6 +11,8 @@ public class Enemy : MonoBehaviour
 
     [SerializeField]
     private Base playerBase;
+
+    public ScoreHandler scoreHandler;
     // Start is called before the first frame update
     void Start()
     {
@@ -42,8 +44,9 @@ public class Enemy : MonoBehaviour
     public void takeDamage(int damageToDeal)
     {
         health -= damageToDeal;
-        if (health <= 0)
+        if (health == 0)
         {
+            scoreHandler.changeScore(1);
             Destroy(gameObject);
         }
     }

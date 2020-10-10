@@ -11,15 +11,18 @@ public class Player : MonoBehaviour
     private float horizontal = 0;
     private float vertical = 0;
 
-    public int maxHealth = 100;
+    public int maxHealth = 10;
     public int currentHealth;
 
     public HealthBar healthbar;
 
     [SerializeField]
     private float attackCooldown = 20.0f;
+    private enum Weapon { melee, ranged};
+    private Weapon currentWeapon = Weapon.melee;
     private float lastAttack = 0;
     public GameObject laser;
+    public ScoreHandler scoreHandler;
     [SerializeField]
     private GameObject meleeHitbox;
 
@@ -34,7 +37,6 @@ public class Player : MonoBehaviour
         healthbar.SetMaxHealth(maxHealth);
     }
 
-   
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
@@ -45,12 +47,8 @@ public class Player : MonoBehaviour
     {
         MoveCharacter();
         TurnCharacter();
-        Fire();
+        ChangeWeapon();
         Attack();
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage(5);
-        }
     }
 
 
@@ -64,6 +62,7 @@ public class Player : MonoBehaviour
         float angle = Mathf.Atan2(diff.y, diff.x) * Mathf.Rad2Deg;
         // Rotate Object
         transform.rotation = Quaternion.Euler(0, 0, angle - 90f);
+        healthbar.transform.parent.transform.parent.transform.rotation = Quaternion.Euler(0, 0, 0);
     }
 
     private void MoveCharacter()
@@ -72,6 +71,42 @@ public class Player : MonoBehaviour
         vertical = Input.GetAxisRaw("Vertical");
 
         rb.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed);
+    }
+
+    private void ChangeWeapon()
+    {
+            uint temp = (uint)currentWeapon;
+            temp += (uint)Input.GetAxis("SwapWeapon");
+            temp %= (uint)System.Enum.GetValues(typeof(Weapon)).Length;
+            currentWeapon = (Weapon)temp;
+    }
+
+    private void Attack()
+    {
+        if (Input.GetButton("Fire1") && Time.time - lastAttack > attackCooldown)
+        {
+
+            switch (currentWeapon)
+            {
+                case Weapon.melee:
+                    StartCoroutine(MeleeAttack());
+                    break;
+                case Weapon.ranged:
+                    Fire();
+                    break;
+                default:
+                    break;
+            }
+        }
+
+    }
+
+    private IEnumerator MeleeAttack()
+    {
+        meleeHitbox.SetActive(true);
+        yield return new WaitForSeconds(.1f);
+        meleeHitbox.SetActive(false);
+        yield break;
     }
 
     private void Fire()
@@ -86,26 +121,10 @@ public class Player : MonoBehaviour
         if (Input.GetButton("Fire1") && Time.time - lastAttack > attackCooldown)
         {
             GameObject temp = Instantiate(laser, transform.position, transform.rotation, transform);
+            //temp.GetComponent<SendScore>().;
             temp.transform.parent = null;
             temp.transform.localScale = Vector3.one;
             lastAttack = Time.time;
         }
     }
-
-    private void Attack()
-    {
-        if (Input.GetButton("Fire2") && Time.time - lastAttack > attackCooldown)
-        {
-            StartCoroutine(MeleeAttack());
-        }
-
-    }
-
-    private IEnumerator MeleeAttack()
-    {
-        meleeHitbox.SetActive(true);
-        yield return new WaitForSeconds(.1f);
-        meleeHitbox.SetActive(false);
-    }
-
 }

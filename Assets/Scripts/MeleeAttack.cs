@@ -18,7 +18,6 @@ public class MeleeAttack : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(collision.gameObject.name);
         if (collision.gameObject.CompareTag("Enemy"))
         {
             collision.gameObject.GetComponent<Enemy>().takeDamage(1);
