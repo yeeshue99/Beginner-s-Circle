@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3663188723207673399}
   - component: {fileID: 4254216997295552614}
   m_Layer: 9
-  m_Name: Enemy
+  m_Name: Enem_Generic
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -97,6 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerBase: {fileID: 0}
+  scoreHandler: {fileID: 0}
 --- !u!61 &3663188723207673399
 BoxCollider2D:
   m_ObjectHideFlags: 0
