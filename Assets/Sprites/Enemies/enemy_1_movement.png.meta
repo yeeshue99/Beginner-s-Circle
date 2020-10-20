@@ -1,7 +1,97 @@
 fileFormatVersion: 2
 guid: 97b44a2c63b25e34bb2ef1a1f93cb283
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7854227448289153226
+    second: enemy_1_movement_0
+  - first:
+      213: 2115072604579079388
+    second: enemy_1_movement_1
+  - first:
+      213: 4770340064487478644
+    second: enemy_1_movement_2
+  - first:
+      213: -8860098051190377551
+    second: enemy_1_movement_3
+  - first:
+      213: 9070192623380830017
+    second: enemy_1_movement_4
+  - first:
+      213: 8330174211724255676
+    second: enemy_1_movement_5
+  - first:
+      213: 3322335488114661620
+    second: enemy_1_movement_6
+  - first:
+      213: -1051883762071088034
+    second: enemy_1_movement_7
+  - first:
+      213: 4333499332858261531
+    second: enemy_1_movement_8
+  - first:
+      213: -4375708171495063440
+    second: enemy_1_movement_9
+  - first:
+      213: 3300967731246910511
+    second: enemy_1_movement_10
+  - first:
+      213: 2991217261964309101
+    second: enemy_1_movement_11
+  - first:
+      213: 7379929505507183745
+    second: enemy_1_movement_12
+  - first:
+      213: -2593859276387220642
+    second: enemy_1_movement_13
+  - first:
+      213: 298617366159648041
+    second: enemy_1_movement_14
+  - first:
+      213: -488201781737864242
+    second: enemy_1_movement_15
+  - first:
+      213: 9055241841874449384
+    second: enemy_1_movement_16
+  - first:
+      213: 5677949395077027666
+    second: enemy_1_movement_17
+  - first:
+      213: 1260911227317359869
+    second: enemy_1_movement_18
+  - first:
+      213: 4080337056550371112
+    second: enemy_1_movement_19
+  - first:
+      213: -1853334294360358267
+    second: enemy_1_movement_20
+  - first:
+      213: 1769738706285661384
+    second: enemy_1_movement_21
+  - first:
+      213: -1831403183512695605
+    second: enemy_1_movement_22
+  - first:
+      213: -5365825806263140906
+    second: enemy_1_movement_23
+  - first:
+      213: 73892564788768695
+    second: enemy_1_movement_24
+  - first:
+      213: -4690800685821424996
+    second: enemy_1_movement_25
+  - first:
+      213: 8999470673879626616
+    second: enemy_1_movement_26
+  - first:
+      213: -211518200260631907
+    second: enemy_1_movement_27
+  - first:
+      213: 2194989219191018641
+    second: enemy_1_movement_28
+  - first:
+      213: -2649670681254619748
+    second: enemy_1_movement_29
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +130,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +161,651 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: enemy_1_movement_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 160
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f2a9fcfbd200390800000000000000
+      internalID: -7854227448289153226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a816e35f3a5d10800000000000000
+      internalID: 2115072604579079388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4751799a307a33240800000000000000
+      internalID: 4770340064487478644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3baa7e3cb9a0580800000000000000
+      internalID: -8860098051190377551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 160
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1479bf0922ccfdd70800000000000000
+      internalID: 9070192623380830017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a1f67f49ba9370800000000000000
+      internalID: 8330174211724255676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f89fb1268e4b1e20800000000000000
+      internalID: 3322335488114661620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5450c0aa45f661f0800000000000000
+      internalID: -1051883762071088034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b861feaea32c30800000000000000
+      internalID: 4333499332858261531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 105
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070434df99c5643c0800000000000000
+      internalID: -4375708171495063440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ccffb89a46fcd20800000000000000
+      internalID: 3300967731246910511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 105
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6236696040f28920800000000000000
+      internalID: 2991217261964309101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 105
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0e23e8c6ca6660800000000000000
+      internalID: 7379929505507183745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 105
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5386912bb2c00cd0800000000000000
+      internalID: -2593859276387220642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 106
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92565b199e6e42400800000000000000
+      internalID: 298617366159648041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 105
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34dcce01f8939f0800000000000000
+      internalID: -488201781737864242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33e2c7a7eaaad70800000000000000
+      internalID: 9055241841874449384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 54
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d53a44e02cce40800000000000000
+      internalID: 5677949395077027666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 54
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df49d85a418af7110800000000000000
+      internalID: 1260911227317359869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 58
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3c833fe440a830800000000000000
+      internalID: 4080337056550371112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 58
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820a965742a746e0800000000000000
+      internalID: -1853334294360358267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 57
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8a651aff5f8810800000000000000
+      internalID: 1769738706285661384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 54
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccc43ef18c8596e0800000000000000
+      internalID: -1831403183512695605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddbf0bcbd1c885b0800000000000000
+      internalID: -5365825806263140906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe6cb65e4860100800000000000000
+      internalID: 73892564788768695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a847111ade6eeb0800000000000000
+      internalID: -4690800685821424996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f32b85ea84ec70800000000000000
+      internalID: 8999470673879626616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926fe94159801df0800000000000000
+      internalID: -211518200260631907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 9
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19451b7b01b267e10800000000000000
+      internalID: 2194989219191018641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_1_movement_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 6
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951d00dd8a7a3bd0800000000000000
+      internalID: -2649670681254619748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

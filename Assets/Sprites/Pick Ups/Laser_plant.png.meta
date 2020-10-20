@@ -1,37 +1,22 @@
 fileFormatVersion: 2
-guid: 2a50cb47bd671b443904052421038d00
+guid: dc9d1a602629f32408670b8441cfacda
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7672064755138430786
-    second: environment_0
+      213: 1207119533888805025
+    second: Laser_plant_0
   - first:
-      213: -2744459860488241012
-    second: environment_1
+      213: 1408928446457153693
+    second: Laser_plant_1
   - first:
-      213: 689176432287940110
-    second: environment_2
+      213: 2428879856292427795
+    second: Laser_plant_2
   - first:
-      213: -3465110836789601462
-    second: environment_3
+      213: 3100733392259644877
+    second: Laser_plant_3
   - first:
-      213: -7163797405583273556
-    second: environment_4
-  - first:
-      213: -1112349361429245251
-    second: environment_5
-  - first:
-      213: 2129779222011270706
-    second: environment_6
-  - first:
-      213: 1984830909761902803
-    second: environment_7
-  - first:
-      213: 6397742363319337115
-    second: environment_8
-  - first:
-      213: -6225525426658374
-    second: environment_9
+      213: 7365455094330912233
+    second: Laser_plant_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -117,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: environment_0
+      name: Laser_plant_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 48
-        width: 120
-        height: 201
+        x: 52
+        y: 1
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +116,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24702d71f36a87a60800000000000000
-      internalID: 7672064755138430786
+      spriteID: 1a890ea02dc80c010800000000000000
+      internalID: 1207119533888805025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: environment_1
+      name: Laser_plant_1
       rect:
         serializedVersion: 2
-        x: 196
-        y: 192
-        width: 42
-        height: 41
+        x: 70
+        y: 10
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,81 +137,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c80c7433c48b9e9d0800000000000000
-      internalID: -2744459860488241012
+      spriteID: d98850d05f48d8310800000000000000
+      internalID: 1408928446457153693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: environment_2
+      name: Laser_plant_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 160
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0ef7125052709900800000000000000
-      internalID: 689176432287940110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_3
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 160
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4b9cc98d0479efc0800000000000000
-      internalID: -3465110836789601462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_4
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 144
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca1185d0734159c90800000000000000
-      internalID: -7163797405583273556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_5
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 113
+        x: 82
+        y: 1
         width: 12
         height: 13
       alignment: 0
@@ -236,19 +158,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db290e536242090f0800000000000000
-      internalID: -1112349361429245251
+      spriteID: 318796c4c5d15b120800000000000000
+      internalID: 2428879856292427795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: environment_6
+      name: Laser_plant_3
       rect:
         serializedVersion: 2
-        x: 225
-        y: 113
-        width: 13
+        x: 98
+        y: 1
+        width: 12
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -257,61 +179,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2365df91bee7e8d10800000000000000
-      internalID: 2129779222011270706
+      spriteID: dcdf3d48794080b20800000000000000
+      internalID: 3100733392259644877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: environment_7
+      name: Laser_plant_4
       rect:
         serializedVersion: 2
-        x: 242
-        y: 113
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d8d29342398b8b10800000000000000
-      internalID: 1984830909761902803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_8
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 97
-        width: 4
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b900e1268c859c850800000000000000
-      internalID: 6397742363319337115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_9
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 97
-        width: 6
+        x: 6
+        y: 1
+        width: 36
         height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -320,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab36768eae1e9eff0800000000000000
-      internalID: -6225525426658374
+      spriteID: 9ed6faa626a573660800000000000000
+      internalID: 7365455094330912233
       vertices: []
       indices: 
       edges: []

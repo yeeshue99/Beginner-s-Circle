@@ -1,37 +1,25 @@
 fileFormatVersion: 2
-guid: 2a50cb47bd671b443904052421038d00
+guid: 863319a63a404924e8daae2285ddf06c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7672064755138430786
-    second: environment_0
+      213: -9070913030008087738
+    second: Magic_Plant_sheet_0
   - first:
-      213: -2744459860488241012
-    second: environment_1
+      213: -7762951680288368075
+    second: Magic_Plant_sheet_1
   - first:
-      213: 689176432287940110
-    second: environment_2
+      213: 649745578465693743
+    second: Magic_Plant_sheet_2
   - first:
-      213: -3465110836789601462
-    second: environment_3
+      213: 2244853435501681205
+    second: Magic_Plant_sheet_3
   - first:
-      213: -7163797405583273556
-    second: environment_4
+      213: 6738219367897676272
+    second: Magic_Plant_sheet_4
   - first:
-      213: -1112349361429245251
-    second: environment_5
-  - first:
-      213: 2129779222011270706
-    second: environment_6
-  - first:
-      213: 1984830909761902803
-    second: environment_7
-  - first:
-      213: 6397742363319337115
-    second: environment_8
-  - first:
-      213: -6225525426658374
-    second: environment_9
+      213: -2632696937250478542
+    second: Magic_Plant_sheet_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -72,7 +60,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -117,201 +105,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: environment_0
+      name: Magic_Plant_sheet_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 48
-        width: 120
-        height: 201
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24702d71f36a87a60800000000000000
-      internalID: 7672064755138430786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_1
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 192
-        width: 42
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c80c7433c48b9e9d0800000000000000
-      internalID: -2744459860488241012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_2
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 160
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0ef7125052709900800000000000000
-      internalID: 689176432287940110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_3
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 160
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4b9cc98d0479efc0800000000000000
-      internalID: -3465110836789601462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_4
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 144
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca1185d0734159c90800000000000000
-      internalID: -7163797405583273556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_5
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 113
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db290e536242090f0800000000000000
-      internalID: -1112349361429245251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_6
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 113
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2365df91bee7e8d10800000000000000
-      internalID: 2129779222011270706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_7
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 113
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d8d29342398b8b10800000000000000
-      internalID: 1984830909761902803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_8
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 97
-        width: 4
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b900e1268c859c850800000000000000
-      internalID: 6397742363319337115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: environment_9
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 97
-        width: 6
+        x: 6
+        y: 1
+        width: 36
         height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -320,8 +119,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab36768eae1e9eff0800000000000000
-      internalID: -6225525426658374
+      spriteID: 64bd7e1b8a4ad1280800000000000000
+      internalID: -9070913030008087738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Plant_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad3ef9394744490800000000000000
+      internalID: -7762951680288368075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Plant_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2014de392c540900800000000000000
+      internalID: 649745578465693743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Plant_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a94eb4e42572f10800000000000000
+      internalID: 2244853435501681205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Plant_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b23280d6f28d50800000000000000
+      internalID: 6738219367897676272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Plant_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2362ded8518c67bd0800000000000000
+      internalID: -2632696937250478542
       vertices: []
       indices: 
       edges: []

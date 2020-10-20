@@ -1,7 +1,97 @@
 fileFormatVersion: 2
 guid: 070895c18ac9e974fa3a56191e1e1cf0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6878552477421257111
+    second: weapon_effects-Sheet_0
+  - first:
+      213: 4849641191631904685
+    second: weapon_effects-Sheet_1
+  - first:
+      213: 1062156021931105172
+    second: weapon_effects-Sheet_2
+  - first:
+      213: -8611932862192510008
+    second: weapon_effects-Sheet_3
+  - first:
+      213: -7492167513900666658
+    second: weapon_effects-Sheet_4
+  - first:
+      213: 6479577618710187014
+    second: weapon_effects-Sheet_5
+  - first:
+      213: -7393630996171704760
+    second: weapon_effects-Sheet_6
+  - first:
+      213: 5042417660331168840
+    second: weapon_effects-Sheet_7
+  - first:
+      213: 6070188396558671943
+    second: weapon_effects-Sheet_8
+  - first:
+      213: 7085417399929887211
+    second: weapon_effects-Sheet_9
+  - first:
+      213: -5758490046656401827
+    second: weapon_effects-Sheet_10
+  - first:
+      213: -6004747734274063765
+    second: weapon_effects-Sheet_11
+  - first:
+      213: 7067366925535216953
+    second: weapon_effects-Sheet_12
+  - first:
+      213: -4728974890019032393
+    second: weapon_effects-Sheet_13
+  - first:
+      213: 7794700127583297959
+    second: weapon_effects-Sheet_14
+  - first:
+      213: -8348137813816669449
+    second: weapon_effects-Sheet_15
+  - first:
+      213: 2088914781265762963
+    second: weapon_effects-Sheet_16
+  - first:
+      213: -6254062740719357486
+    second: weapon_effects-Sheet_17
+  - first:
+      213: 7595430114988315274
+    second: weapon_effects-Sheet_18
+  - first:
+      213: 2647428861500008939
+    second: weapon_effects-Sheet_19
+  - first:
+      213: 5189257815280443023
+    second: weapon_effects-Sheet_20
+  - first:
+      213: 4375883644725667103
+    second: weapon_effects-Sheet_21
+  - first:
+      213: 7799863290885240649
+    second: weapon_effects-Sheet_22
+  - first:
+      213: 305997559260955873
+    second: weapon_effects-Sheet_23
+  - first:
+      213: -4140847783092403296
+    second: weapon_effects-Sheet_24
+  - first:
+      213: 277837775306088024
+    second: weapon_effects-Sheet_25
+  - first:
+      213: -2609479912114206229
+    second: weapon_effects-Sheet_26
+  - first:
+      213: -7672144677290536381
+    second: weapon_effects-Sheet_27
+  - first:
+      213: 6429213783324345714
+    second: weapon_effects-Sheet_28
+  - first:
+      213: -7137951330087600144
+    second: weapon_effects-Sheet_29
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +130,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +161,651 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 166
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791c399b807857f50800000000000000
+      internalID: 6878552477421257111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 211
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf525328f26d4340800000000000000
+      internalID: 4849641191631904685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bde3f36498dbe00800000000000000
+      internalID: 1062156021931105172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb908790b44c7880800000000000000
+      internalID: -8611932862192510008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 213
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ba306759760890800000000000000
+      internalID: -7492167513900666658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 207
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ccac193851ce950800000000000000
+      internalID: 6479577618710187014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463ed838cb846990800000000000000
+      internalID: -7393630996171704760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844123d65244af540800000000000000
+      internalID: 5042417660331168840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e3987f24ad3450800000000000000
+      internalID: 6070188396558671943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95138c595745260800000000000000
+      internalID: 7085417399929887211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e2c66ffcbb510b0800000000000000
+      internalID: -5758490046656401827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6243cc00c9daaca0800000000000000
+      internalID: -6004747734274063765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350fd536c4541260800000000000000
+      internalID: 7067366925535216953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b27ca8846e4f5eb0800000000000000
+      internalID: -4728974890019032393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 209
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a16b4bc7765c2c60800000000000000
+      internalID: 7794700127583297959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 209
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa837f73e4752c80800000000000000
+      internalID: -8348137813816669449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a986f0de05dfc10800000000000000
+      internalID: 2088914781265762963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 211
+        width: 96
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ba60a21b1539a0800000000000000
+      internalID: -6254062740719357486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 110
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82de208273686960800000000000000
+      internalID: 7595430114988315274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 115
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be923d9d58e8db420800000000000000
+      internalID: 2647428861500008939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed5b73d72f30840800000000000000
+      internalID: 5189257815280443023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 116
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15a05e8df24abc30800000000000000
+      internalID: 4375883644725667103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f2dd665eae3c60800000000000000
+      internalID: 7799863290885240649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4c2eda82f1f3400800000000000000
+      internalID: 305997559260955873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 61
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a340d361e0c886c0800000000000000
+      internalID: -4140847783092403296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 69
+        width: 44
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85edd4e0cf31bd300800000000000000
+      internalID: 277837775306088024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94ae578d349cbd0800000000000000
+      internalID: -2609479912114206229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34291b49011178590800000000000000
+      internalID: -7672144677290536381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c71c5fd7293950800000000000000
+      internalID: 6429213783324345714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_effects-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff9127517e0fc90800000000000000
+      internalID: -7137951330087600144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
