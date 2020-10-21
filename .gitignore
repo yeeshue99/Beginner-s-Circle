@@ -6,3 +6,4 @@ Library/SourceAssetDB
 Library/ShaderCache.db
 Library/ArtifactDB-lock
 Library/ArtifactDB
+*.meta
