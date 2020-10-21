@@ -1147,6 +1147,19 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 93607473, guid: 1f2dc3c9a442cba4a897bb28423bdb07, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 93607473, guid: 1f2dc3c9a442cba4a897bb28423bdb07, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 2.2487307
+      objectReference: {fileID: 0}
+    - target: {fileID: 93607474, guid: 1f2dc3c9a442cba4a897bb28423bdb07, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e6a4f62d9b49354419c0c784ffb6ae5a,
+        type: 3}
     - target: {fileID: 256311996, guid: 1f2dc3c9a442cba4a897bb28423bdb07, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -1255,27 +1268,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 409046886, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
       propertyPath: m_SpriteTilingProperty.border.x
-      value: 0
+      value: 0.049999997
       objectReference: {fileID: 0}
     - target: {fileID: 409046886, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
       propertyPath: m_SpriteTilingProperty.border.y
-      value: 0
+      value: 0.049999997
       objectReference: {fileID: 0}
     - target: {fileID: 409046886, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
       propertyPath: m_SpriteTilingProperty.border.z
-      value: 0
+      value: 0.049999997
       objectReference: {fileID: 0}
     - target: {fileID: 409046886, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
       propertyPath: m_SpriteTilingProperty.border.w
-      value: 0
+      value: 0.049999997
       objectReference: {fileID: 0}
     - target: {fileID: 409046886, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 0.24
+      value: 0.16
       objectReference: {fileID: 0}
     - target: {fileID: 409046886, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 0.42
+      value: 0.16
       objectReference: {fileID: 0}
     - target: {fileID: 1144105842, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1293,6 +1306,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1746163328, guid: e659a0e8570d3954c9e876f8a95d3bd2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e6a4f62d9b49354419c0c784ffb6ae5a,
+        type: 3}
     - target: {fileID: 353038592029875404, guid: e659a0e8570d3954c9e876f8a95d3bd2,
         type: 3}
       propertyPath: m_LocalPosition.x
