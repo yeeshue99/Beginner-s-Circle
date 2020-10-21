@@ -20,7 +20,7 @@ public class MeleeAttack : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            collision.gameObject.GetComponent<Enemy>().TakeDamage(1);
+            collision.gameObject.GetComponent<Enemy>().takeDamage(1);
         }
     }
 }

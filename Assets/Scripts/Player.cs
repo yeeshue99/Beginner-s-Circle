@@ -98,7 +98,7 @@ public class Player : MonoBehaviour
 
     private void ChangeWeapon()
     {
-        //Debug.Log(input.Player.ChangeWeapon.ReadValue<float>());
+        Debug.Log(input.Player.ChangeWeapon.ReadValue<float>());
         uint temp = (uint)currentWeapon;
         temp += 1;//(uint)Input.GetAxis("SwapWeapon");
         temp %= (uint)System.Enum.GetValues(typeof(Weapon)).Length;
