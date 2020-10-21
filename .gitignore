@@ -1,0 +1,8 @@
+
+*.log
+Temp/UnityLockfile
+Library/SourceAssetDB-lock
+Library/SourceAssetDB
+Library/ShaderCache.db
+Library/ArtifactDB-lock
+Library/ArtifactDB
