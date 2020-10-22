@@ -11,7 +11,10 @@ public class GameHandler : MonoBehaviour
 
     public GameObject enemyPrefab;
     public ScoreHandler scoreHandler;
-    
+    public SceneChanger sc;
+
+    public int roundIncrementer = 0;
+    public float temp = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,12 +24,13 @@ public class GameHandler : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        temp = 1f - (float)roundIncrementer / 1000;
     }
 
     public void setGameover(bool state)
     {
         gameover = state;
+        sc.ScreenLoader("Game Over");
     }
 
     Vector2 GetUnitOnCircle(float angleDegrees, float radius)
@@ -61,7 +65,8 @@ public class GameHandler : MonoBehaviour
             GameObject temp = Instantiate(enemyPrefab, new Vector3(randomPointOnCircle.x, randomPointOnCircle.y, 0f), enemyPrefab.transform.rotation);
             temp.GetComponent<Enemy>().scoreHandler = scoreHandler;
             enemies.Add(temp);
-            yield return new WaitForSeconds(1f);
+            roundIncrementer++;
+            yield return new WaitForSeconds(1f - (float) roundIncrementer / 1000);
         }
     }
 }

@@ -1,7 +1,2008 @@
 fileFormatVersion: 2
 guid: 32f56c7179c023249952c6e39c5cc529
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -502828646082225476
+    second: ground edges_0
+  - first:
+      213: 7385076780588170347
+    second: ground edges_1
+  - first:
+      213: -6445876298986058158
+    second: ground edges_2
+  - first:
+      213: 7004746703876958261
+    second: ground edges_3
+  - first:
+      213: -602348187976845474
+    second: ground edges_4
+  - first:
+      213: 8108920715477031699
+    second: ground edges_5
+  - first:
+      213: 2502835676863558571
+    second: ground edges_6
+  - first:
+      213: -3388061110752032777
+    second: ground edges_7
+  - first:
+      213: -4237441724162384178
+    second: ground edges_8
+  - first:
+      213: 7141568652622862513
+    second: ground edges_9
+  - first:
+      213: -2290016329960553810
+    second: ground edges_10
+  - first:
+      213: 3993432989764263604
+    second: ground edges_11
+  - first:
+      213: 5608739896534873991
+    second: ground edges_12
+  - first:
+      213: 7815346248644873531
+    second: ground edges_13
+  - first:
+      213: 7490101621796652874
+    second: ground edges_14
+  - first:
+      213: -1292509165281756510
+    second: ground edges_15
+  - first:
+      213: 4942748131187528805
+    second: ground edges_16
+  - first:
+      213: 7740594992112729848
+    second: ground edges_17
+  - first:
+      213: -9029777555168462742
+    second: ground edges_18
+  - first:
+      213: -2990871819811803336
+    second: ground edges_19
+  - first:
+      213: -4083397447731799740
+    second: ground edges_20
+  - first:
+      213: 331196051941968693
+    second: ground edges_21
+  - first:
+      213: -5207479522944343606
+    second: ground edges_22
+  - first:
+      213: 7852176656861717631
+    second: ground edges_23
+  - first:
+      213: 8152458811010796448
+    second: ground edges_24
+  - first:
+      213: -2202921862591371440
+    second: ground edges_25
+  - first:
+      213: -462117610293818307
+    second: ground edges_26
+  - first:
+      213: -1139078687228432374
+    second: ground edges_27
+  - first:
+      213: -7937935530237513582
+    second: ground edges_28
+  - first:
+      213: 1433874211349140829
+    second: ground edges_29
+  - first:
+      213: -6857111998881412000
+    second: ground edges_30
+  - first:
+      213: 6262403637449145482
+    second: ground edges_31
+  - first:
+      213: -2503829967649583286
+    second: ground edges_32
+  - first:
+      213: 476140529716477153
+    second: ground edges_33
+  - first:
+      213: 7006618286567377846
+    second: ground edges_34
+  - first:
+      213: -5670887447315867355
+    second: ground edges_35
+  - first:
+      213: 7130628815738370301
+    second: ground edges_36
+  - first:
+      213: 3406748001612508873
+    second: ground edges_37
+  - first:
+      213: 6351468442676665743
+    second: ground edges_38
+  - first:
+      213: 5437550733604271068
+    second: ground edges_39
+  - first:
+      213: 1761709652803054770
+    second: ground edges_40
+  - first:
+      213: 8054945704270613709
+    second: ground edges_41
+  - first:
+      213: -3612271367323479765
+    second: ground edges_42
+  - first:
+      213: 7670338694122239448
+    second: ground edges_43
+  - first:
+      213: 3602422195956236962
+    second: ground edges_44
+  - first:
+      213: -2250543932160921821
+    second: ground edges_45
+  - first:
+      213: -2246036124575613652
+    second: ground edges_46
+  - first:
+      213: -2056674102687786271
+    second: ground edges_47
+  - first:
+      213: -3795640161480893665
+    second: ground edges_0
+  - first:
+      213: 6708492136405034078
+    second: ground edges_1
+  - first:
+      213: -6177780732899748278
+    second: ground edges_2
+  - first:
+      213: -4973757055761901291
+    second: ground edges_3
+  - first:
+      213: 6097108237438487975
+    second: ground edges_4
+  - first:
+      213: 2201341997899998120
+    second: ground edges_5
+  - first:
+      213: 2671117914458209854
+    second: ground edges_6
+  - first:
+      213: -19433120232780956
+    second: ground edges_7
+  - first:
+      213: -6605139284523074311
+    second: ground edges_8
+  - first:
+      213: 7391540667561068919
+    second: ground edges_9
+  - first:
+      213: 443015086145186828
+    second: ground edges_10
+  - first:
+      213: -511621083325606805
+    second: ground edges_11
+  - first:
+      213: -2313899555455114891
+    second: ground edges_12
+  - first:
+      213: 2765794413736065644
+    second: ground edges_13
+  - first:
+      213: -717831475834800313
+    second: ground edges_14
+  - first:
+      213: 8401018289186731167
+    second: ground edges_15
+  - first:
+      213: 2016028252003549825
+    second: ground edges_16
+  - first:
+      213: 7872809874623983254
+    second: ground edges_17
+  - first:
+      213: -915768023874676640
+    second: ground edges_18
+  - first:
+      213: -3125572570783114828
+    second: ground edges_19
+  - first:
+      213: -1505793070680500798
+    second: ground edges_20
+  - first:
+      213: 7831098338083722972
+    second: ground edges_21
+  - first:
+      213: -8317410024252358707
+    second: ground edges_22
+  - first:
+      213: -1719056499918489138
+    second: ground edges_23
+  - first:
+      213: 6683497181460845813
+    second: ground edges_24
+  - first:
+      213: -5194950553311399952
+    second: ground edges_25
+  - first:
+      213: 448797078849906894
+    second: ground edges_26
+  - first:
+      213: -3344209042807747414
+    second: ground edges_27
+  - first:
+      213: -8042861098170356794
+    second: ground edges_28
+  - first:
+      213: -6511112932379206932
+    second: ground edges_29
+  - first:
+      213: 6579327800776288181
+    second: ground edges_30
+  - first:
+      213: 3564979412681965194
+    second: ground edges_31
+  - first:
+      213: 4547886334102327159
+    second: ground edges_32
+  - first:
+      213: 39354669789089446
+    second: ground edges_33
+  - first:
+      213: 2339225983654876874
+    second: ground edges_34
+  - first:
+      213: 793683394367086931
+    second: ground edges_35
+  - first:
+      213: -5622526728092048279
+    second: ground edges_36
+  - first:
+      213: 1487319431409504429
+    second: ground edges_37
+  - first:
+      213: -7105757199809443222
+    second: ground edges_38
+  - first:
+      213: -8599396750871841418
+    second: ground edges_39
+  - first:
+      213: -6937271703540340342
+    second: ground edges_40
+  - first:
+      213: 1201047897729525361
+    second: ground edges_41
+  - first:
+      213: -4928695885543229850
+    second: ground edges_42
+  - first:
+      213: -7550585827810622939
+    second: ground edges_43
+  - first:
+      213: -1791947336593443662
+    second: ground edges_44
+  - first:
+      213: -3885935551036763990
+    second: ground edges_45
+  - first:
+      213: 8195741363603227577
+    second: ground edges_46
+  - first:
+      213: 6722800537600204655
+    second: ground edges_47
+  - first:
+      213: -7771712938875146381
+    second: ground edges_48
+  - first:
+      213: 8493252435220947862
+    second: ground edges_49
+  - first:
+      213: 10677465897285232
+    second: ground edges_50
+  - first:
+      213: 7964188997861831493
+    second: ground edges_51
+  - first:
+      213: -6868702408372698346
+    second: ground edges_52
+  - first:
+      213: -2620262202509529392
+    second: ground edges_53
+  - first:
+      213: 8382234007767713012
+    second: ground edges_54
+  - first:
+      213: 8321648671224553345
+    second: ground edges_55
+  - first:
+      213: 7175496637784216485
+    second: ground edges_56
+  - first:
+      213: -5563215500107574173
+    second: ground edges_57
+  - first:
+      213: 866719906893078820
+    second: ground edges_58
+  - first:
+      213: -2537588065408420278
+    second: ground edges_59
+  - first:
+      213: -2818056064641398361
+    second: ground edges_60
+  - first:
+      213: 8980433392152551823
+    second: ground edges_61
+  - first:
+      213: 3802013912672614090
+    second: ground edges_62
+  - first:
+      213: 8571793654514263077
+    second: ground edges_63
+  - first:
+      213: 5324025555913949227
+    second: ground edges_64
+  - first:
+      213: -5002968378883398957
+    second: ground edges_65
+  - first:
+      213: -8959695289172685035
+    second: ground edges_66
+  - first:
+      213: -3219867876573485389
+    second: ground edges_67
+  - first:
+      213: 1606409376029130648
+    second: ground edges_68
+  - first:
+      213: 5464733822961757684
+    second: ground edges_69
+  - first:
+      213: 4887809028852366763
+    second: ground edges_70
+  - first:
+      213: 8963103054660406629
+    second: ground edges_71
+  - first:
+      213: 8977004614490109044
+    second: ground edges_72
+  - first:
+      213: 3019578323548721018
+    second: ground edges_73
+  - first:
+      213: 4295650722059801315
+    second: ground edges_74
+  - first:
+      213: -5987175984335596062
+    second: ground edges_75
+  - first:
+      213: 6389415261530661155
+    second: ground edges_76
+  - first:
+      213: 1746561145282515287
+    second: ground edges_77
+  - first:
+      213: -5561348830540635826
+    second: ground edges_78
+  - first:
+      213: 7540810286886343416
+    second: ground edges_79
+  - first:
+      213: -8736139254447303731
+    second: ground edges_80
+  - first:
+      213: -5540364208164312122
+    second: ground edges_81
+  - first:
+      213: -3056672452674888586
+    second: ground edges_82
+  - first:
+      213: -6516081339571941697
+    second: ground edges_83
+  - first:
+      213: 8954370846298896201
+    second: ground edges_84
+  - first:
+      213: 103491801414621312
+    second: ground edges_85
+  - first:
+      213: -9011366842889785105
+    second: ground edges_86
+  - first:
+      213: -211355149472233500
+    second: ground edges_87
+  - first:
+      213: -3978841773013699769
+    second: ground edges_88
+  - first:
+      213: 3496110938022734453
+    second: ground edges_89
+  - first:
+      213: 4086931582247660466
+    second: ground edges_90
+  - first:
+      213: 2376169727857849319
+    second: ground edges_91
+  - first:
+      213: -8833307635937998329
+    second: ground edges_92
+  - first:
+      213: -5281907981850347836
+    second: ground edges_93
+  - first:
+      213: -8786680962896295730
+    second: ground edges_94
+  - first:
+      213: 1083671794549720126
+    second: ground edges_95
+  - first:
+      213: 8791313513494551481
+    second: ground edges_96
+  - first:
+      213: 3991838061299948832
+    second: ground edges_97
+  - first:
+      213: 6221370526368936933
+    second: ground edges_98
+  - first:
+      213: 7279033197656503491
+    second: ground edges_99
+  - first:
+      213: 3060350467720170212
+    second: ground edges_100
+  - first:
+      213: -8588848233704176432
+    second: ground edges_101
+  - first:
+      213: -8282597025234303499
+    second: ground edges_102
+  - first:
+      213: 518944289643972044
+    second: ground edges_103
+  - first:
+      213: 5250463418122106165
+    second: ground edges_104
+  - first:
+      213: -3991106102052654898
+    second: ground edges_105
+  - first:
+      213: 4046203836081527205
+    second: ground edges_106
+  - first:
+      213: 7147827854931737450
+    second: ground edges_107
+  - first:
+      213: 6576918085477149575
+    second: ground edges_108
+  - first:
+      213: -4584664296553112597
+    second: ground edges_109
+  - first:
+      213: 7220824166632898721
+    second: ground edges_110
+  - first:
+      213: -4818674911369178796
+    second: ground edges_111
+  - first:
+      213: 2471342740952237092
+    second: ground edges_112
+  - first:
+      213: 6527329467089599915
+    second: ground edges_113
+  - first:
+      213: -6428993050706119607
+    second: ground edges_114
+  - first:
+      213: -7257590501142680973
+    second: ground edges_115
+  - first:
+      213: 5899172545800897782
+    second: ground edges_116
+  - first:
+      213: 8961502631715204446
+    second: ground edges_117
+  - first:
+      213: -1764988757076296468
+    second: ground edges_118
+  - first:
+      213: -8734146877530171092
+    second: ground edges_119
+  - first:
+      213: 8104711081778237323
+    second: ground edges_120
+  - first:
+      213: 3855568467965412326
+    second: ground edges_121
+  - first:
+      213: -3152707330755340123
+    second: ground edges_122
+  - first:
+      213: 3029415386543724904
+    second: ground edges_123
+  - first:
+      213: 6818518737349955388
+    second: ground edges_124
+  - first:
+      213: -3741256697640035561
+    second: ground edges_125
+  - first:
+      213: 8914041868876999750
+    second: ground edges_126
+  - first:
+      213: -5749104765294599869
+    second: ground edges_127
+  - first:
+      213: 8536230882390330645
+    second: ground edges_128
+  - first:
+      213: -4680449726439508472
+    second: ground edges_129
+  - first:
+      213: -5785506178613622823
+    second: ground edges_130
+  - first:
+      213: 8885294449595350926
+    second: ground edges_131
+  - first:
+      213: -2126251849523372030
+    second: ground edges_132
+  - first:
+      213: 7587040849149232106
+    second: ground edges_133
+  - first:
+      213: -7332968074760330081
+    second: ground edges_134
+  - first:
+      213: 7907195499466239386
+    second: ground edges_135
+  - first:
+      213: -8501806242204896500
+    second: ground edges_136
+  - first:
+      213: 1911587990553982654
+    second: ground edges_137
+  - first:
+      213: -3174226020312510298
+    second: ground edges_138
+  - first:
+      213: -1362455919531482142
+    second: ground edges_139
+  - first:
+      213: -7634521760987608089
+    second: ground edges_140
+  - first:
+      213: 1638918487649322520
+    second: ground edges_141
+  - first:
+      213: 3493612114229138516
+    second: ground edges_142
+  - first:
+      213: 3648179282542002453
+    second: ground edges_143
+  - first:
+      213: -1238514075613966786
+    second: ground edges_144
+  - first:
+      213: -4215432023153652532
+    second: ground edges_145
+  - first:
+      213: -2564119645960272603
+    second: ground edges_146
+  - first:
+      213: -6543602137473908580
+    second: ground edges_147
+  - first:
+      213: 134658579385058687
+    second: ground edges_148
+  - first:
+      213: -7739872767750726061
+    second: ground edges_149
+  - first:
+      213: 591176661523131432
+    second: ground edges_150
+  - first:
+      213: 6580108421033909536
+    second: ground edges_151
+  - first:
+      213: -764871182984335613
+    second: ground edges_152
+  - first:
+      213: -8410711429570588811
+    second: ground edges_153
+  - first:
+      213: 3057437032871890722
+    second: ground edges_154
+  - first:
+      213: 6367313333151068649
+    second: ground edges_155
+  - first:
+      213: 4536833674859699594
+    second: ground edges_156
+  - first:
+      213: 4862687309559173683
+    second: ground edges_157
+  - first:
+      213: -5973548233066660330
+    second: ground edges_158
+  - first:
+      213: 461420242726326588
+    second: ground edges_159
+  - first:
+      213: 5007983148830001600
+    second: ground edges_160
+  - first:
+      213: -6471801229874938159
+    second: ground edges_161
+  - first:
+      213: -3220860685919501480
+    second: ground edges_162
+  - first:
+      213: -8031597897891520194
+    second: ground edges_163
+  - first:
+      213: 6250258251794682992
+    second: ground edges_164
+  - first:
+      213: -8128946924818363754
+    second: ground edges_165
+  - first:
+      213: 1312533739968407224
+    second: ground edges_166
+  - first:
+      213: -2182848142612761090
+    second: ground edges_167
+  - first:
+      213: -6548904103329941216
+    second: ground edges_168
+  - first:
+      213: -3187030617919712910
+    second: ground edges_169
+  - first:
+      213: 8258111656286513576
+    second: ground edges_170
+  - first:
+      213: 2740394504761242854
+    second: ground edges_171
+  - first:
+      213: -5476217762426691457
+    second: ground edges_172
+  - first:
+      213: 2649546877473837181
+    second: ground edges_173
+  - first:
+      213: -7139810179697580
+    second: ground edges_174
+  - first:
+      213: 3936841647346481352
+    second: ground edges_175
+  - first:
+      213: -7074545263059234270
+    second: ground edges_176
+  - first:
+      213: -5474328148272263760
+    second: ground edges_177
+  - first:
+      213: 1223079415867557023
+    second: ground edges_178
+  - first:
+      213: -3616682291677589736
+    second: ground edges_179
+  - first:
+      213: -7814068850105530994
+    second: ground edges_180
+  - first:
+      213: 6458275535710317526
+    second: ground edges_181
+  - first:
+      213: -6002866478222822339
+    second: ground edges_182
+  - first:
+      213: 3050732418898625817
+    second: ground edges_183
+  - first:
+      213: 2722977886823799708
+    second: ground edges_184
+  - first:
+      213: 8652111931324832981
+    second: ground edges_185
+  - first:
+      213: -3161978706786995949
+    second: ground edges_186
+  - first:
+      213: -1819919305631755146
+    second: ground edges_187
+  - first:
+      213: -2349272558313453031
+    second: ground edges_188
+  - first:
+      213: 6962815197950969153
+    second: ground edges_189
+  - first:
+      213: -5628985102593099723
+    second: ground edges_190
+  - first:
+      213: -4429774319513526331
+    second: ground edges_191
+  - first:
+      213: 1120407752428042619
+    second: ground edges_192
+  - first:
+      213: 5162832075523734977
+    second: ground edges_193
+  - first:
+      213: -1007770248837921799
+    second: ground edges_194
+  - first:
+      213: -2887395036218706624
+    second: ground edges_195
+  - first:
+      213: 5566224228762826219
+    second: ground edges_196
+  - first:
+      213: -2735479141434662696
+    second: ground edges_197
+  - first:
+      213: -9055281976225516422
+    second: ground edges_198
+  - first:
+      213: -5730415734735359152
+    second: ground edges_199
+  - first:
+      213: -4919022604045234523
+    second: ground edges_200
+  - first:
+      213: 6840171475553373806
+    second: ground edges_201
+  - first:
+      213: -3555246492486534843
+    second: ground edges_202
+  - first:
+      213: 7947284268102725263
+    second: ground edges_203
+  - first:
+      213: -2173186305366911973
+    second: ground edges_204
+  - first:
+      213: -2491691552153234616
+    second: ground edges_205
+  - first:
+      213: 6409663414588322140
+    second: ground edges_206
+  - first:
+      213: 45408885340423271
+    second: ground edges_207
+  - first:
+      213: 8059917567845941559
+    second: ground edges_208
+  - first:
+      213: 6615349800727240399
+    second: ground edges_209
+  - first:
+      213: -7767002967993962502
+    second: ground edges_210
+  - first:
+      213: 3806192178974443084
+    second: ground edges_211
+  - first:
+      213: 4272853051056358411
+    second: ground edges_212
+  - first:
+      213: -7478059096055777541
+    second: ground edges_213
+  - first:
+      213: 2351359851704801912
+    second: ground edges_214
+  - first:
+      213: -4964576577471323344
+    second: ground edges_215
+  - first:
+      213: -6122626126039967137
+    second: ground edges_216
+  - first:
+      213: -8562374097407218377
+    second: ground edges_217
+  - first:
+      213: -4814342213377959612
+    second: ground edges_218
+  - first:
+      213: 3204052258721085946
+    second: ground edges_219
+  - first:
+      213: 696082814119307744
+    second: ground edges_220
+  - first:
+      213: 867278383221452831
+    second: ground edges_221
+  - first:
+      213: 6098645641650166742
+    second: ground edges_222
+  - first:
+      213: 1396180683613263484
+    second: ground edges_223
+  - first:
+      213: -5709647944318483492
+    second: ground edges_224
+  - first:
+      213: -8745383548454389084
+    second: ground edges_225
+  - first:
+      213: -6612348421185256580
+    second: ground edges_226
+  - first:
+      213: 6110467282965706116
+    second: ground edges_227
+  - first:
+      213: 1506488263464535062
+    second: ground edges_228
+  - first:
+      213: -3851626711714432661
+    second: ground edges_229
+  - first:
+      213: 2521091728733524591
+    second: ground edges_230
+  - first:
+      213: 8088757986917233899
+    second: ground edges_231
+  - first:
+      213: 6691398206703749016
+    second: ground edges_232
+  - first:
+      213: -1916086827179000136
+    second: ground edges_233
+  - first:
+      213: 4863362677320986500
+    second: ground edges_234
+  - first:
+      213: 7281297424059869218
+    second: ground edges_235
+  - first:
+      213: 7930845287239398995
+    second: ground edges_236
+  - first:
+      213: -7895512008824422287
+    second: ground edges_237
+  - first:
+      213: -8632093440387348201
+    second: ground edges_238
+  - first:
+      213: 2470834872891219819
+    second: ground edges_239
+  - first:
+      213: 4072252720100158997
+    second: ground edges_240
+  - first:
+      213: -7490213920357929490
+    second: ground edges_241
+  - first:
+      213: 8280174721752295228
+    second: ground edges_242
+  - first:
+      213: 313258666700803161
+    second: ground edges_243
+  - first:
+      213: 3224059141278999766
+    second: ground edges_244
+  - first:
+      213: -5268690788517775121
+    second: ground edges_245
+  - first:
+      213: -5217086651853396406
+    second: ground edges_246
+  - first:
+      213: -5937357672619941997
+    second: ground edges_247
+  - first:
+      213: -1788056254600783282
+    second: ground edges_248
+  - first:
+      213: -1019969037161104435
+    second: ground edges_249
+  - first:
+      213: -1023056932220692748
+    second: ground edges_250
+  - first:
+      213: -4173000530480768166
+    second: ground edges_251
+  - first:
+      213: -2000107861152055019
+    second: ground edges_252
+  - first:
+      213: -8792321460987369176
+    second: ground edges_253
+  - first:
+      213: -8359919512423814954
+    second: ground edges_254
+  - first:
+      213: 9147678253240721307
+    second: ground edges_255
+  - first:
+      213: 5828980293985910765
+    second: ground edges_256
+  - first:
+      213: -8467358307777996990
+    second: ground edges_257
+  - first:
+      213: -5371204087294471583
+    second: ground edges_258
+  - first:
+      213: -838191348179486063
+    second: ground edges_259
+  - first:
+      213: 6147515180071590835
+    second: ground edges_260
+  - first:
+      213: -3455674506730911979
+    second: ground edges_261
+  - first:
+      213: -6428089843837252137
+    second: ground edges_262
+  - first:
+      213: 7270555411948865339
+    second: ground edges_263
+  - first:
+      213: -7377426152757150206
+    second: ground edges_264
+  - first:
+      213: -852432955126980229
+    second: ground edges_265
+  - first:
+      213: 751510019962652740
+    second: ground edges_266
+  - first:
+      213: 4320775671312228767
+    second: ground edges_267
+  - first:
+      213: 3487389852964530984
+    second: ground edges_268
+  - first:
+      213: 486668994867381770
+    second: ground edges_269
+  - first:
+      213: -3121892271661016236
+    second: ground edges_270
+  - first:
+      213: 932369583340659404
+    second: ground edges_271
+  - first:
+      213: -3688020754813811701
+    second: ground edges_272
+  - first:
+      213: -2024411320117341040
+    second: ground edges_273
+  - first:
+      213: -5084541972808074483
+    second: ground edges_274
+  - first:
+      213: 8385526856961263038
+    second: ground edges_275
+  - first:
+      213: 2180898824588701554
+    second: ground edges_276
+  - first:
+      213: -2331240167162145067
+    second: ground edges_277
+  - first:
+      213: 1042101137610379080
+    second: ground edges_278
+  - first:
+      213: 3360419902500339017
+    second: ground edges_279
+  - first:
+      213: 4525616904306391971
+    second: ground edges_280
+  - first:
+      213: 8522112927609096180
+    second: ground edges_281
+  - first:
+      213: -2548086833319214564
+    second: ground edges_282
+  - first:
+      213: 8454867726011742346
+    second: ground edges_283
+  - first:
+      213: 8740432332783002644
+    second: ground edges_284
+  - first:
+      213: -4044722999505058686
+    second: ground edges_285
+  - first:
+      213: 6756701424912652631
+    second: ground edges_286
+  - first:
+      213: 4049311090456226100
+    second: ground edges_287
+  - first:
+      213: -3819013845611819455
+    second: ground edges_288
+  - first:
+      213: 7305581974260404231
+    second: ground edges_289
+  - first:
+      213: -8978700967351252675
+    second: ground edges_290
+  - first:
+      213: -5699326032220033662
+    second: ground edges_291
+  - first:
+      213: 6108974325772509718
+    second: ground edges_292
+  - first:
+      213: -5798018497198340777
+    second: ground edges_293
+  - first:
+      213: -9020069498383832627
+    second: ground edges_294
+  - first:
+      213: 5191598774328184948
+    second: ground edges_295
+  - first:
+      213: -2049020174921710738
+    second: ground edges_296
+  - first:
+      213: 9080632405772295658
+    second: ground edges_297
+  - first:
+      213: 778417777213142570
+    second: ground edges_298
+  - first:
+      213: -6682842417794540219
+    second: ground edges_299
+  - first:
+      213: -8369093905824392552
+    second: ground edges_300
+  - first:
+      213: -4872013229787267617
+    second: ground edges_301
+  - first:
+      213: 246223751773891257
+    second: ground edges_302
+  - first:
+      213: 5533404574044466215
+    second: ground edges_303
+  - first:
+      213: 289396542062105375
+    second: ground edges_304
+  - first:
+      213: -1268044593515731307
+    second: ground edges_305
+  - first:
+      213: 3307273541477345640
+    second: ground edges_306
+  - first:
+      213: -6970586709382235587
+    second: ground edges_307
+  - first:
+      213: 8692134754971610749
+    second: ground edges_308
+  - first:
+      213: 9157459731307493792
+    second: ground edges_309
+  - first:
+      213: -4596697298385910083
+    second: ground edges_310
+  - first:
+      213: 6436599969537226590
+    second: ground edges_311
+  - first:
+      213: -7571840713782129199
+    second: ground edges_312
+  - first:
+      213: 893713974039433465
+    second: ground edges_313
+  - first:
+      213: 7377497855663212962
+    second: ground edges_314
+  - first:
+      213: 8139149059213483908
+    second: ground edges_315
+  - first:
+      213: -4655375159986822090
+    second: ground edges_316
+  - first:
+      213: 7297352825180281028
+    second: ground edges_317
+  - first:
+      213: -2315031022112408254
+    second: ground edges_318
+  - first:
+      213: -6798062606534594549
+    second: ground edges_319
+  - first:
+      213: 3742316810989799984
+    second: ground edges_320
+  - first:
+      213: -4145224178175654721
+    second: ground edges_321
+  - first:
+      213: -6473767412276264996
+    second: ground edges_322
+  - first:
+      213: -1379552489532497386
+    second: ground edges_323
+  - first:
+      213: -3671839301845774539
+    second: ground edges_324
+  - first:
+      213: 6629002040637254023
+    second: ground edges_325
+  - first:
+      213: -2038808152379733395
+    second: ground edges_326
+  - first:
+      213: 2615767713126108144
+    second: ground edges_327
+  - first:
+      213: 6570846186543018410
+    second: ground edges_328
+  - first:
+      213: -4589483112835523816
+    second: ground edges_329
+  - first:
+      213: 7212628612488767169
+    second: ground edges_330
+  - first:
+      213: -5079902193262156709
+    second: ground edges_331
+  - first:
+      213: 8585293329966546918
+    second: ground edges_332
+  - first:
+      213: 4597602388503378008
+    second: ground edges_333
+  - first:
+      213: 5811168717309695407
+    second: ground edges_334
+  - first:
+      213: 1075514230048537749
+    second: ground edges_335
+  - first:
+      213: 5374764128902789225
+    second: ground edges_336
+  - first:
+      213: 6031324603598559628
+    second: ground edges_337
+  - first:
+      213: 7807657140223777059
+    second: ground edges_338
+  - first:
+      213: 3791512398696224973
+    second: ground edges_339
+  - first:
+      213: 4975595323092418230
+    second: ground edges_340
+  - first:
+      213: 5957388477520336148
+    second: ground edges_341
+  - first:
+      213: -3694322165937881829
+    second: ground edges_342
+  - first:
+      213: 6356709329184380648
+    second: ground edges_343
+  - first:
+      213: 2858972101471689378
+    second: ground edges_344
+  - first:
+      213: 391997938064747305
+    second: ground edges_345
+  - first:
+      213: 3885760439745289282
+    second: ground edges_346
+  - first:
+      213: -6180778642941105827
+    second: ground edges_347
+  - first:
+      213: -445558101322166972
+    second: ground edges_348
+  - first:
+      213: -8810224631453194744
+    second: ground edges_349
+  - first:
+      213: 5933910639702723492
+    second: ground edges_350
+  - first:
+      213: -1338657064434144509
+    second: ground edges_351
+  - first:
+      213: -7883148127001332403
+    second: ground edges_352
+  - first:
+      213: -5246812604604637174
+    second: ground edges_353
+  - first:
+      213: 7016475329204908542
+    second: ground edges_354
+  - first:
+      213: -6981359482891538363
+    second: ground edges_355
+  - first:
+      213: -64390758687171010
+    second: ground edges_356
+  - first:
+      213: 1503574758865264586
+    second: ground edges_357
+  - first:
+      213: 8235561221443860627
+    second: ground edges_358
+  - first:
+      213: -5222185498669675557
+    second: ground edges_359
+  - first:
+      213: 4299872514216969023
+    second: ground edges_360
+  - first:
+      213: 287027001968603738
+    second: ground edges_361
+  - first:
+      213: -5173171692303604123
+    second: ground edges_362
+  - first:
+      213: 4342447004310652724
+    second: ground edges_363
+  - first:
+      213: 1383769203362227310
+    second: ground edges_364
+  - first:
+      213: -8693373974698569317
+    second: ground edges_365
+  - first:
+      213: -5680480833651056439
+    second: ground edges_366
+  - first:
+      213: 577579531825292104
+    second: ground edges_367
+  - first:
+      213: -3792116013737659825
+    second: ground edges_368
+  - first:
+      213: 2081829822602521545
+    second: ground edges_369
+  - first:
+      213: 4029438397873682576
+    second: ground edges_370
+  - first:
+      213: 2647746435838713926
+    second: ground edges_371
+  - first:
+      213: -5750184030458079659
+    second: ground edges_372
+  - first:
+      213: 5432177382993088941
+    second: ground edges_373
+  - first:
+      213: 5418537365584625766
+    second: ground edges_374
+  - first:
+      213: 8358244536235968625
+    second: ground edges_375
+  - first:
+      213: -6679548556635632343
+    second: ground edges_376
+  - first:
+      213: 5561048667493579872
+    second: ground edges_377
+  - first:
+      213: -632484767057025582
+    second: ground edges_378
+  - first:
+      213: -6278416046652749936
+    second: ground edges_379
+  - first:
+      213: 2615746175901223068
+    second: ground edges_380
+  - first:
+      213: 1753494641890159802
+    second: ground edges_381
+  - first:
+      213: -2162115097434080617
+    second: ground edges_382
+  - first:
+      213: -7624864234036518145
+    second: ground edges_383
+  - first:
+      213: 6452770005419772806
+    second: ground edges_384
+  - first:
+      213: 6726828743386170897
+    second: ground edges_385
+  - first:
+      213: 233019581699161884
+    second: ground edges_386
+  - first:
+      213: 6166949259020863613
+    second: ground edges_387
+  - first:
+      213: 330199358851030691
+    second: ground edges_388
+  - first:
+      213: 162102132807183220
+    second: ground edges_389
+  - first:
+      213: -8900710474596440179
+    second: ground edges_390
+  - first:
+      213: 2861259670143817498
+    second: ground edges_391
+  - first:
+      213: -1559190737608767641
+    second: ground edges_392
+  - first:
+      213: -4405455477212549422
+    second: ground edges_393
+  - first:
+      213: -6190590059197152392
+    second: ground edges_394
+  - first:
+      213: -5572458569442102461
+    second: ground edges_395
+  - first:
+      213: -2617216765028621808
+    second: ground edges_396
+  - first:
+      213: 152379914984675721
+    second: ground edges_397
+  - first:
+      213: 5264916655133142225
+    second: ground edges_398
+  - first:
+      213: 2094323732967888565
+    second: ground edges_399
+  - first:
+      213: -7949139576290631517
+    second: ground edges_400
+  - first:
+      213: 3238939269769269680
+    second: ground edges_401
+  - first:
+      213: -5283465183753490823
+    second: ground edges_402
+  - first:
+      213: -2036265600924436917
+    second: ground edges_403
+  - first:
+      213: 3169430441512060617
+    second: ground edges_404
+  - first:
+      213: -8132626314907297900
+    second: ground edges_405
+  - first:
+      213: 3344989822513257072
+    second: ground edges_406
+  - first:
+      213: 1959427295442660051
+    second: ground edges_407
+  - first:
+      213: -8262227505868953907
+    second: ground edges_408
+  - first:
+      213: -6471097922873605144
+    second: ground edges_409
+  - first:
+      213: -2016368482530099907
+    second: ground edges_410
+  - first:
+      213: 3701077619740494331
+    second: ground edges_411
+  - first:
+      213: -2167964061034647756
+    second: ground edges_412
+  - first:
+      213: -6120456167799520225
+    second: ground edges_413
+  - first:
+      213: -7257368381006325338
+    second: ground edges_414
+  - first:
+      213: -4948744398930095040
+    second: ground edges_415
+  - first:
+      213: -2542584376937015305
+    second: ground edges_416
+  - first:
+      213: -469135318270995922
+    second: ground edges_417
+  - first:
+      213: -1689592127346313631
+    second: ground edges_418
+  - first:
+      213: -9139630191809212248
+    second: ground edges_419
+  - first:
+      213: -3093140200812322539
+    second: ground edges_420
+  - first:
+      213: -7584127247453597888
+    second: ground edges_421
+  - first:
+      213: 2281611286786289378
+    second: ground edges_422
+  - first:
+      213: -7372021949629137257
+    second: ground edges_423
+  - first:
+      213: -1180124952630455602
+    second: ground edges_424
+  - first:
+      213: -8169372480329169073
+    second: ground edges_425
+  - first:
+      213: -3961838436851238868
+    second: ground edges_426
+  - first:
+      213: -4327651183185724553
+    second: ground edges_427
+  - first:
+      213: -6269256794647115416
+    second: ground edges_428
+  - first:
+      213: 8899221526747342019
+    second: ground edges_429
+  - first:
+      213: 8692160362924862402
+    second: ground edges_430
+  - first:
+      213: 8876074158407167419
+    second: ground edges_431
+  - first:
+      213: -2923428615623703260
+    second: ground edges_432
+  - first:
+      213: -8024673571029660935
+    second: ground edges_433
+  - first:
+      213: -3867391626252798904
+    second: ground edges_434
+  - first:
+      213: -4961888101480403858
+    second: ground edges_435
+  - first:
+      213: -8869357308053785531
+    second: ground edges_436
+  - first:
+      213: -2986881759460339299
+    second: ground edges_437
+  - first:
+      213: 836119326091769158
+    second: ground edges_438
+  - first:
+      213: -4253580495875924706
+    second: ground edges_439
+  - first:
+      213: -3800231914908066275
+    second: ground edges_440
+  - first:
+      213: 9068146687900739156
+    second: ground edges_441
+  - first:
+      213: -7779788890905001818
+    second: ground edges_442
+  - first:
+      213: -6317794549654090489
+    second: ground edges_443
+  - first:
+      213: -5064941545015364219
+    second: ground edges_444
+  - first:
+      213: -1103292732785493522
+    second: ground edges_445
+  - first:
+      213: 6658281516567158843
+    second: ground edges_446
+  - first:
+      213: 7378382388152740592
+    second: ground edges_447
+  - first:
+      213: -5105289159846608916
+    second: ground edges_448
+  - first:
+      213: -2071738190582803521
+    second: ground edges_449
+  - first:
+      213: 3490648361228757483
+    second: ground edges_450
+  - first:
+      213: 7688260137546256444
+    second: ground edges_451
+  - first:
+      213: -9083752596876566681
+    second: ground edges_452
+  - first:
+      213: 471828691213272909
+    second: ground edges_453
+  - first:
+      213: 5972799304512138252
+    second: ground edges_454
+  - first:
+      213: 4530496355273794088
+    second: ground edges_455
+  - first:
+      213: -4955002838120705399
+    second: ground edges_456
+  - first:
+      213: 6504726832094831191
+    second: ground edges_457
+  - first:
+      213: 1071043460249505837
+    second: ground edges_458
+  - first:
+      213: 2948523579454235916
+    second: ground edges_459
+  - first:
+      213: -6099950646749314448
+    second: ground edges_460
+  - first:
+      213: -6362960695902366851
+    second: ground edges_461
+  - first:
+      213: -3976788420229559381
+    second: ground edges_462
+  - first:
+      213: 5776145963545308008
+    second: ground edges_463
+  - first:
+      213: -4344059017106038355
+    second: ground edges_464
+  - first:
+      213: 7261993154441164106
+    second: ground edges_465
+  - first:
+      213: -141598030948940185
+    second: ground edges_466
+  - first:
+      213: 2600155146956157646
+    second: ground edges_467
+  - first:
+      213: 6448692868881205736
+    second: ground edges_468
+  - first:
+      213: -3509971795139697933
+    second: ground edges_469
+  - first:
+      213: 2740972771663501586
+    second: ground edges_470
+  - first:
+      213: 1108899192665165934
+    second: ground edges_471
+  - first:
+      213: 6799500124761190711
+    second: ground edges_472
+  - first:
+      213: 8286286236453002993
+    second: ground edges_473
+  - first:
+      213: 3501587904189865727
+    second: ground edges_474
+  - first:
+      213: -3351570874675066879
+    second: ground edges_475
+  - first:
+      213: -2445812046275868597
+    second: ground edges_476
+  - first:
+      213: 7409647517324717778
+    second: ground edges_477
+  - first:
+      213: 3072189758849080446
+    second: ground edges_478
+  - first:
+      213: 2323882569552307810
+    second: ground edges_479
+  - first:
+      213: -4218615878797874576
+    second: ground edges_480
+  - first:
+      213: -5596529803185034529
+    second: ground edges_481
+  - first:
+      213: 719665633508094828
+    second: ground edges_482
+  - first:
+      213: -5166831966305951742
+    second: ground edges_483
+  - first:
+      213: -7824054082962799130
+    second: ground edges_484
+  - first:
+      213: 2777193998797617247
+    second: ground edges_485
+  - first:
+      213: 1715387288134698693
+    second: ground edges_486
+  - first:
+      213: 362567394300937328
+    second: ground edges_487
+  - first:
+      213: 6736499550998972777
+    second: ground edges_488
+  - first:
+      213: -3321175064244252560
+    second: ground edges_489
+  - first:
+      213: 1758884341569979781
+    second: ground edges_490
+  - first:
+      213: -6238943399270669234
+    second: ground edges_491
+  - first:
+      213: -4898019541413003127
+    second: ground edges_492
+  - first:
+      213: 4985437994293989634
+    second: ground edges_493
+  - first:
+      213: 7936909269636861020
+    second: ground edges_494
+  - first:
+      213: -4232569446676246122
+    second: ground edges_495
+  - first:
+      213: 6132605976753163301
+    second: ground edges_496
+  - first:
+      213: 1793448522739993658
+    second: ground edges_497
+  - first:
+      213: 5361148592946771970
+    second: ground edges_498
+  - first:
+      213: -1533800743555281779
+    second: ground edges_499
+  - first:
+      213: 1397947598824993361
+    second: ground edges_500
+  - first:
+      213: -1040914477429668081
+    second: ground edges_501
+  - first:
+      213: 8482637249364281247
+    second: ground edges_502
+  - first:
+      213: 9154006783054879600
+    second: ground edges_503
+  - first:
+      213: -2723650313639257043
+    second: ground edges_504
+  - first:
+      213: 1574482930236590879
+    second: ground edges_505
+  - first:
+      213: -857942133604668989
+    second: ground edges_506
+  - first:
+      213: 7095216253933856377
+    second: ground edges_507
+  - first:
+      213: 5973905049591368743
+    second: ground edges_508
+  - first:
+      213: -3764791574938535697
+    second: ground edges_509
+  - first:
+      213: 8655290947282261307
+    second: ground edges_510
+  - first:
+      213: -8980638842299144101
+    second: ground edges_511
+  - first:
+      213: -9206697382769067215
+    second: ground edges_512
+  - first:
+      213: 3700500281802789300
+    second: ground edges_513
+  - first:
+      213: 2773863219445106770
+    second: ground edges_514
+  - first:
+      213: 4261748903728965400
+    second: ground edges_515
+  - first:
+      213: 56829070475950223
+    second: ground edges_516
+  - first:
+      213: -1113295620909367751
+    second: ground edges_517
+  - first:
+      213: -6511786882124232820
+    second: ground edges_518
+  - first:
+      213: -4119274164724712354
+    second: ground edges_519
+  - first:
+      213: -7522071419188852206
+    second: ground edges_520
+  - first:
+      213: 3702401219206449221
+    second: ground edges_521
+  - first:
+      213: -8405642903044575230
+    second: ground edges_522
+  - first:
+      213: 5689321614624925826
+    second: ground edges_523
+  - first:
+      213: 6624842297456863735
+    second: ground edges_524
+  - first:
+      213: -1503773203361485590
+    second: ground edges_525
+  - first:
+      213: 3078251090392952128
+    second: ground edges_526
+  - first:
+      213: 2466949564148267908
+    second: ground edges_527
+  - first:
+      213: -6030626776651293002
+    second: ground edges_528
+  - first:
+      213: -3822600735162852732
+    second: ground edges_529
+  - first:
+      213: 320834574602055722
+    second: ground edges_530
+  - first:
+      213: 2686562171445984197
+    second: ground edges_531
+  - first:
+      213: -1950753687427652677
+    second: ground edges_532
+  - first:
+      213: -231334053823669832
+    second: ground edges_533
+  - first:
+      213: 7878584857685547753
+    second: ground edges_534
+  - first:
+      213: -2481388181663122450
+    second: ground edges_535
+  - first:
+      213: 5876440473993037660
+    second: ground edges_536
+  - first:
+      213: 6404311976254761958
+    second: ground edges_537
+  - first:
+      213: -8537551435935678659
+    second: ground edges_538
+  - first:
+      213: -4012187223632673390
+    second: ground edges_539
+  - first:
+      213: -4251258663676615206
+    second: ground edges_540
+  - first:
+      213: -535065770056433882
+    second: ground edges_541
+  - first:
+      213: 2941307549351883471
+    second: ground edges_542
+  - first:
+      213: -3045450260272494129
+    second: ground edges_543
+  - first:
+      213: -1880408150504213250
+    second: ground edges_544
+  - first:
+      213: 7531605707824351106
+    second: ground edges_545
+  - first:
+      213: -1484532478115316625
+    second: ground edges_546
+  - first:
+      213: -8429724491647268892
+    second: ground edges_547
+  - first:
+      213: 5305233389295049525
+    second: ground edges_548
+  - first:
+      213: 9043809459479119264
+    second: ground edges_549
+  - first:
+      213: 5191636393350179108
+    second: ground edges_550
+  - first:
+      213: 4189736580085320589
+    second: ground edges_551
+  - first:
+      213: -671622789310510779
+    second: ground edges_552
+  - first:
+      213: -2887930424370969687
+    second: ground edges_553
+  - first:
+      213: 6625990161377440260
+    second: ground edges_554
+  - first:
+      213: 8453012137635188254
+    second: ground edges_555
+  - first:
+      213: 1183333046205664665
+    second: ground edges_556
+  - first:
+      213: 8352225191104948471
+    second: ground edges_557
+  - first:
+      213: 8097892934139658007
+    second: ground edges_558
+  - first:
+      213: -434853779228729522
+    second: ground edges_559
+  - first:
+      213: -3876352674375892427
+    second: ground edges_560
+  - first:
+      213: 8564611914086747534
+    second: ground edges_561
+  - first:
+      213: -3148492136467564547
+    second: ground edges_562
+  - first:
+      213: -8941151311193100790
+    second: ground edges_563
+  - first:
+      213: -8245853820800948922
+    second: ground edges_564
+  - first:
+      213: -6251532606614868839
+    second: ground edges_565
+  - first:
+      213: -4211942274577552205
+    second: ground edges_566
+  - first:
+      213: 8679596198229066638
+    second: ground edges_567
+  - first:
+      213: -5611419768934418955
+    second: ground edges_568
+  - first:
+      213: 4016659868464798899
+    second: ground edges_569
+  - first:
+      213: -3911889482806923471
+    second: ground edges_570
+  - first:
+      213: 3364696786991415438
+    second: ground edges_571
+  - first:
+      213: 3159667961807702511
+    second: ground edges_572
+  - first:
+      213: -12445618994008449
+    second: ground edges_573
+  - first:
+      213: 1620387782144225659
+    second: ground edges_574
+  - first:
+      213: -5100168224694480238
+    second: ground edges_575
+  - first:
+      213: -2266048013313033238
+    second: ground edges_576
+  - first:
+      213: -5257030941587779396
+    second: ground edges_577
+  - first:
+      213: 1076278897795175094
+    second: ground edges_578
+  - first:
+      213: 8159835103070721276
+    second: ground edges_579
+  - first:
+      213: 6255746331008998891
+    second: ground edges_580
+  - first:
+      213: -5884361140452233022
+    second: ground edges_581
+  - first:
+      213: 6544619533276516622
+    second: ground edges_582
+  - first:
+      213: 9042793538945742926
+    second: ground edges_583
+  - first:
+      213: -3496592729832612397
+    second: ground edges_584
+  - first:
+      213: -2936384979610722404
+    second: ground edges_585
+  - first:
+      213: -6595147770333624914
+    second: ground edges_586
+  - first:
+      213: -5850315503699806237
+    second: ground edges_587
+  - first:
+      213: -2628026270126335693
+    second: ground edges_588
+  - first:
+      213: -1230869748626544772
+    second: ground edges_589
+  - first:
+      213: -343108974108881751
+    second: ground edges_590
+  - first:
+      213: 8694364037315110173
+    second: ground edges_591
+  - first:
+      213: -2911017253333596842
+    second: ground edges_592
+  - first:
+      213: -1409813781896356759
+    second: ground edges_593
+  - first:
+      213: 8090859143779401052
+    second: ground edges_594
+  - first:
+      213: 6283420126914884190
+    second: ground edges_595
+  - first:
+      213: -4853756701154591468
+    second: ground edges_596
+  - first:
+      213: 7077739647644520095
+    second: ground edges_597
+  - first:
+      213: 4666338631351196470
+    second: ground edges_598
+  - first:
+      213: 3879117588086548178
+    second: ground edges_599
+  - first:
+      213: 3985992517432050167
+    second: ground edges_600
+  - first:
+      213: 8830707012132837874
+    second: ground edges_601
+  - first:
+      213: -601980213427278514
+    second: ground edges_602
+  - first:
+      213: 1471635137248849267
+    second: ground edges_603
+  - first:
+      213: 3644737920351655315
+    second: ground edges_604
+  - first:
+      213: -891558191919024353
+    second: ground edges_605
+  - first:
+      213: 3340869202919893910
+    second: ground edges_606
+  - first:
+      213: -8540486235176507917
+    second: ground edges_607
+  - first:
+      213: 171239231929749760
+    second: ground edges_608
+  - first:
+      213: 2848584451697425474
+    second: ground edges_609
+  - first:
+      213: 1478262382269418626
+    second: ground edges_610
+  - first:
+      213: -7537182831076498300
+    second: ground edges_611
+  - first:
+      213: 6003244304295144074
+    second: ground edges_612
+  - first:
+      213: -6722822533266464255
+    second: ground edges_613
+  - first:
+      213: -4845392828109803076
+    second: ground edges_614
+  - first:
+      213: -1623154708846303910
+    second: ground edges_615
+  - first:
+      213: 2631146982281732397
+    second: ground edges_616
+  - first:
+      213: -6063434334181903323
+    second: ground edges_617
+  - first:
+      213: 8875032546415024023
+    second: ground edges_618
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +2041,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +2072,3573 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ground edges_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b99bf126d235bc0800000000000000
+      internalID: -3795640161480893665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546ce01e0a591d50800000000000000
+      internalID: 6708492136405034078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46124b972d144aa0800000000000000
+      internalID: -6177780732899748278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51918345f4aa9fab0800000000000000
+      internalID: -4973757055761901291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad01a953a74d9450800000000000000
+      internalID: 6097108237438487975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a36af542ecbc8e10800000000000000
+      internalID: 2201341997899998120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb67c4797b11520800000000000000
+      internalID: 2671117914458209854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc5ab1ea5fabff0800000000000000
+      internalID: -19433120232780956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3606f0d4d554a0800000000000000
+      internalID: -6605139284523074311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779c4d83317049660800000000000000
+      internalID: 7391540667561068919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca2d7afd7e52600800000000000000
+      internalID: 443015086145186828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d6ccd55b56e8f0800000000000000
+      internalID: -511621083325606805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_12
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e9272d9063efd0800000000000000
+      internalID: -2313899555455114891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_13
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a7f709d53126620800000000000000
+      internalID: 2765794413736065644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747b5427310c906f0800000000000000
+      internalID: -717831475834800313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94f88e9f99669470800000000000000
+      internalID: 8401018289186731167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c2d9830f5afb10800000000000000
+      internalID: 2016028252003549825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e66297ed6d14d60800000000000000
+      internalID: 7872809874623983254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d94095d98a43f0800000000000000
+      internalID: -915768023874676640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b994ce8e4cbf94d0800000000000000
+      internalID: -3125572570783114828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c518d42e295a1be0800000000000000
+      internalID: -1505793070680500798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_21
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6d1a29276adac60800000000000000
+      internalID: 7831098338083722972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3a2586af929c80800000000000000
+      internalID: -8317410024252358707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_23
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec93885a83fa428e0800000000000000
+      internalID: -1719056499918489138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_24
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45c4e964d80cc50800000000000000
+      internalID: 6683497181460845813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_25
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa72ceef3d7e7b0800000000000000
+      internalID: -5194950553311399952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_26
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8e41db0927a3600800000000000000
+      internalID: 448797078849906894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_27
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8bcc089bf691d0800000000000000
+      internalID: -3344209042807747414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_28
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb6fb1b174026090800000000000000
+      internalID: -8042861098170356794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2240
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead51d0941e3a5a0800000000000000
+      internalID: -6511112932379206932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76f1aa6c77e4b50800000000000000
+      internalID: 6579327800776288181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3d7443e9597130800000000000000
+      internalID: 3564979412681965194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fc50f66865d1f30800000000000000
+      internalID: 4547886334102327159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae08091dd0db8000800000000000000
+      internalID: 39354669789089446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6dc1d63a9967020800000000000000
+      internalID: 2339225983654876874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351606197dab30b00800000000000000
+      internalID: 793683394367086931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642fefeab5c8f1b0800000000000000
+      internalID: -5622526728092048279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da013b8842504a410800000000000000
+      internalID: 1487319431409504429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a0f258977436d90800000000000000
+      internalID: -7105757199809443222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_39
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b2a5773ec8a880800000000000000
+      internalID: -8599396750871841418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_40
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89eb10142cd9bf90800000000000000
+      internalID: -6937271703540340342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_41
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e56613bafaa010800000000000000
+      internalID: 1201047897729525361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_42
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66634489431c99bb0800000000000000
+      internalID: -4928695885543229850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_43
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522cf3fb13ee63790800000000000000
+      internalID: -7550585827810622939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f32a3469b127e0800000000000000
+      internalID: -1791947336593443662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa054647432621ac0800000000000000
+      internalID: -3885935551036763990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3cb88e85f1db170800000000000000
+      internalID: 8195741363603227577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f1773587f2c4d50800000000000000
+      internalID: 6722800537600204655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f2a062244552490800000000000000
+      internalID: -7771712938875146381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693e01537181ed570800000000000000
+      internalID: 8493252435220947862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b8e1491fe52000800000000000000
+      internalID: 10677465897285232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_51
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543f0ad82bb768e60800000000000000
+      internalID: 7964188997861831493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61343113d877da0a0800000000000000
+      internalID: -6868702408372698346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_53
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6909d865f2abd0800000000000000
+      internalID: -2620262202509529392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f481394b6da35470800000000000000
+      internalID: 8382234007767713012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_55
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fd0f1606f6c7370800000000000000
+      internalID: 8321648671224553345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_56
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35326bc2c749360800000000000000
+      internalID: 7175496637784216485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_57
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36414235afc7bc2b0800000000000000
+      internalID: -5563215500107574173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_58
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212f1ac925370c00800000000000000
+      internalID: 866719906893078820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_59
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a467f07691da8ccd0800000000000000
+      internalID: -2537588065408420278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90aed90f044e8d0800000000000000
+      internalID: -2818056064641398361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f812f4cf698e0ac70800000000000000
+      internalID: 8980433392152551823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6b1f7728773c430800000000000000
+      internalID: 3802013912672614090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_63
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242549d9e025f670800000000000000
+      internalID: 8571793654514263077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_64
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204a53090db2e940800000000000000
+      internalID: 5324025555913949227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_65
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a42a24c2e19ab0800000000000000
+      internalID: -5002968378883398957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0f11ea94c8a380800000000000000
+      internalID: -8959695289172685035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b66521d93bb053d0800000000000000
+      internalID: -3219867876573485389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fb21ef0dc1b4610800000000000000
+      internalID: 1606409376029130648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_69
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fda2b56572a6db40800000000000000
+      internalID: 5464733822961757684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_70
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad31be3a6cf4d340800000000000000
+      internalID: 4887809028852366763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_71
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d804a5db6536c70800000000000000
+      internalID: 8963103054660406629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b9b9722ab49c70800000000000000
+      internalID: 8977004614490109044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f4792ac72b7e920800000000000000
+      internalID: 3019578323548721018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2568782973d9b30800000000000000
+      internalID: 4295650722059801315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_75
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e55de5e92749eca0800000000000000
+      internalID: -5987175984335596062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_76
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321aef9e353cba850800000000000000
+      internalID: 6389415261530661155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_77
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515013ab180d3810800000000000000
+      internalID: 1746561145282515287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41679334be12d2b0800000000000000
+      internalID: -5561348830540635826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d874c00756a860800000000000000
+      internalID: 7540810286886343416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3925652aff2c680800000000000000
+      internalID: -8736139254447303731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_81
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe3165b1cac13b0800000000000000
+      internalID: -5540364208164312122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_82
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c579769948495d0800000000000000
+      internalID: -3056672452674888586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_83
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe434b9b8a3295a0800000000000000
+      internalID: -6516081339571941697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94772c8a7d0544c70800000000000000
+      internalID: 8954370846298896201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088db7cbe3daf6100800000000000000
+      internalID: 103491801414621312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe032d4c99131f280800000000000000
+      internalID: -9011366842889785105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_87
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e702428c9d111df0800000000000000
+      internalID: -211355149472233500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_88
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743780efc7058c8c0800000000000000
+      internalID: -3978841773013699769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_89
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ae33cff5ea48030800000000000000
+      internalID: 3496110938022734453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb623dde92b7b830800000000000000
+      internalID: 4086931582247660466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f00b27c9d9f020800000000000000
+      internalID: 2376169727857849319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a8b288189c96580800000000000000
+      internalID: -8833307635937998329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_93
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6728ddca4e2b6b0800000000000000
+      internalID: -5281907981850347836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_94
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec801e3d7307f0680800000000000000
+      internalID: -8786680962896295730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_95
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e340f3f61c9f90f00800000000000000
+      internalID: 1083671794549720126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb1fe8ef05010a70800000000000000
+      internalID: 8791313513494551481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddaac219bd56730800000000000000
+      internalID: 3991838061299948832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e33e40188fb65650800000000000000
+      internalID: 6221370526368936933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_99
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c477969022540560800000000000000
+      internalID: 7279033197656503491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_100
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea49a4398c887a20800000000000000
+      internalID: 3060350467720170212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_101
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4425089084ec880800000000000000
+      internalID: -8588848233704176432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5c33d73ed4e0d80800000000000000
+      internalID: -8282597025234303499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5427af419a33700800000000000000
+      internalID: 518944289643972044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535f95f19a46dd840800000000000000
+      internalID: 5250463418122106165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_105
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f14e552ebc98c0800000000000000
+      internalID: -3991106102052654898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_106
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9567283f0072830800000000000000
+      internalID: 4046203836081527205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_107
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b39d0309f223360800000000000000
+      internalID: 7147827854931737450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b25b91728e54b50800000000000000
+      internalID: 6576918085477149575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1985ec100060c0800000000000000
+      internalID: -4584664296553112597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c5bd6255853460800000000000000
+      internalID: 7220824166632898721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_111
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d0c3d2b0a02db0800000000000000
+      internalID: -4818674911369178796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_112
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424c2b01129fb4220800000000000000
+      internalID: 2471342740952237092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_113
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb0d9219bb59a50800000000000000
+      internalID: 6527329467089599915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_114
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f435f1e0a7c6a0800000000000000
+      internalID: -6428993050706119607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a242e34ebd74b90800000000000000
+      internalID: -7257590501142680973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4033ddc221ed150800000000000000
+      internalID: 5899172545800897782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_117
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dec19d927ad5c70800000000000000
+      internalID: 8961502631715204446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_118
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecb8e5a3108187e0800000000000000
+      internalID: -1764988757076296468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_119
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291abcb0b31ac680800000000000000
+      internalID: -8734146877530171092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_120
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f409cc9c7b97070800000000000000
+      internalID: 8104711081778237323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_121
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3864c081bb18530800000000000000
+      internalID: 3855568467965412326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_122
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8de8de2655f34d0800000000000000
+      internalID: -3152707330755340123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699a085e35aa0a20800000000000000
+      internalID: 3029415386543724904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc6126aae30ae50800000000000000
+      internalID: 6818518737349955388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b5d930bd2641cc0800000000000000
+      internalID: -3741256697640035561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_126
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6f53e9d905bb70800000000000000
+      internalID: 8914041868876999750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_127
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412c101da31730b0800000000000000
+      internalID: -5749104765294599869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_128
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4899b2c8c67670800000000000000
+      internalID: 8536230882390330645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_129
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806bf7a95c3bb0fb0800000000000000
+      internalID: -4680449726439508472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d748e198c0c5bfa0800000000000000
+      internalID: -5785506178613622823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_131
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f71e0c938ee4b70800000000000000
+      internalID: 8885294449595350926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_132
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200642e45390e72e0800000000000000
+      internalID: -2126251849523372030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_133
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30be554759a4960800000000000000
+      internalID: 7587040849149232106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_134
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9461a243601c3a90800000000000000
+      internalID: -7332968074760330081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_135
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da043a9600cbd60800000000000000
+      internalID: 7907195499466239386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_136
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03bd286444830a80800000000000000
+      internalID: -8501806242204896500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_137
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67fdd3623578a10800000000000000
+      internalID: 1911587990553982654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a098769042e2f3d0800000000000000
+      internalID: -3174226020312510298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a23e4f85971de0800000000000000
+      internalID: -1362455919531482142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb085668eabc0690800000000000000
+      internalID: -7634521760987608089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81688206eab9eb610800000000000000
+      internalID: 1638918487649322520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_142
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45411ab35bdcb7030800000000000000
+      internalID: 3493612114229138516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5110bd48abfe0a230800000000000000
+      internalID: 3648179282542002453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_144
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e45b9920aefcee0800000000000000
+      internalID: -1238514075613966786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_145
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccce15c8e6cf75c0800000000000000
+      internalID: -4215432023153652532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_146
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52500fc64ca6a6cd0800000000000000
+      internalID: -2564119645960272603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_147
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90816486847035a0800000000000000
+      internalID: -6543602137473908580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_148
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758436b3476ed100800000000000000
+      internalID: 134658579385058687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_149
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9f7fa9b2769490800000000000000
+      internalID: -7739872767750726061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_150
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c669d9a08443800800000000000000
+      internalID: 591176661523131432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_151
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d584bfebd315b50800000000000000
+      internalID: 6580108421033909536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_152
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f294726b1a265f0800000000000000
+      internalID: -764871182984335613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f80244486274b80800000000000000
+      internalID: -8410711429570588811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f047b48c23e6a20800000000000000
+      internalID: 3057437032871890722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_155
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f314bdbd3d5850800000000000000
+      internalID: 6367313333151068649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dda0ba03216fe30800000000000000
+      internalID: 4536833674859699594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_157
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332131c285cbb7340800000000000000
+      internalID: 4862687309559173683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_158
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e366ff781b91da0800000000000000
+      internalID: -5973548233066660330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_159
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3190eb144b476600800000000000000
+      internalID: 461420242726326588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_160
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98723f32eef7540800000000000000
+      internalID: 5007983148830001600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_161
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3e5c021b8f26a0800000000000000
+      internalID: -6471801229874938159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_162
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8534fb065443d43d0800000000000000
+      internalID: -3220860685919501480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_163
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e66dd3480a8090800000000000000
+      internalID: -8031597897891520194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_164
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741da4c3c06db650800000000000000
+      internalID: 6250258251794682992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_165
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a823447dd203f80800000000000000
+      internalID: -8128946924818363754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_166
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6288e7b7e073210800000000000000
+      internalID: 1312533739968407224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground edges_167
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f1f4fd27f4b1e0800000000000000
+      internalID: -2182848142612761090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

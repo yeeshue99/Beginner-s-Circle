@@ -48,6 +48,6 @@ public class ScoreHandler : MonoBehaviour
 
     void updateScoreBoard()
     {
-        scoreText.text = "Score: " + score;
+        scoreText.text = "x " + score;
     }
 }

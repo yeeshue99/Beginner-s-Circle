@@ -5,10 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
 {
-    public string sceneName;
     public void ScreenLoader(string scene)
     {
-        sceneName = scene;
-        SceneManager.LoadScene(scene);
+        if(scene == "Exit")
+        {
+#if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+#else
+      Application.Quit();
+#endif
+        }
+        else
+            SceneManager.LoadScene(scene);
     }
 }

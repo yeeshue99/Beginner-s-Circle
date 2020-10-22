@@ -38,6 +38,6 @@ public class HealthBar : MonoBehaviour
     }
     public void Die()
     {
-        // Implement death functionality
+        
     }
 }
