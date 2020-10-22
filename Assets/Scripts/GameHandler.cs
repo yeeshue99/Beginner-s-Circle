@@ -13,6 +13,8 @@ public class GameHandler : MonoBehaviour
     public ScoreHandler scoreHandler;
     public SceneChanger sc;
 
+
+
     public int roundIncrementer = 0;
     public float temp = 0;
     // Start is called before the first frame update

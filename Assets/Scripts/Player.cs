@@ -25,6 +25,8 @@ public class Player : MonoBehaviour
     public Animator ammoAnimator;
     public GameObject pauseMenu;
 
+    public AudioSource laserFire;
+
 
     [SerializeField]
     private float attackCooldown = 0.25f;
@@ -44,7 +46,7 @@ public class Player : MonoBehaviour
     {
         input = new PlayerInput();
         //input.Player.Attack.performed += ctx => Attack();
-        input.Player.ChangeWeapon.performed += ctx => ChangeWeapon();
+        //input.Player.ChangeWeapon.performed += ctx => ChangeWeapon();
         input.Player.Pause.performed += ctx => PauseMenu();
         
     }
@@ -201,7 +203,8 @@ public class Player : MonoBehaviour
             temp.transform.localScale = Vector3.one * 2;
             lastAttack = Time.time;
             ammo--;
-            if(ammo <= 0)
+            laserFire.Play();
+            if (ammo <= 0)
             {
                 ammo = 20;
                 lastAttack += .5f;

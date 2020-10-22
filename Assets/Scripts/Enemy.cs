@@ -9,6 +9,8 @@ public class Enemy : MonoBehaviour
     private int damage = 1;
     private int speed = 2;
 
+    public AudioSource death;
+
     [SerializeField]
     private Base playerBase;
 
@@ -46,6 +48,7 @@ public class Enemy : MonoBehaviour
         health -= damageToDeal;
         if (health == 0)
         {
+            death.Play();
             scoreHandler.changeScore(1);
             Destroy(gameObject);
         }
