@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class Laser : MonoBehaviour
 {
-    private int speed = 10;
+    private int speed = 20;
     public Text counter;
     // Start is called before the first frame update
     private void Awake()
@@ -31,6 +31,7 @@ public class Laser : MonoBehaviour
         if (collision.gameObject.CompareTag("Enemy"))
         {
             collision.gameObject.GetComponent<Enemy>().takeDamage(1);
+            Destroy(gameObject.transform.parent.gameObject);
         }
     }
 }
